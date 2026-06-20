@@ -21,15 +21,6 @@ This repository contains absolutely nothing of interest.
 No releases.
 No downloads.
 No documentation.
-No roadmap.
-
-If you know, you know.
-
-## Status
-
-- 🟢 Existing
-- ⚪ Public
-- ⚫ Empty
 
 ## FAQ
 
@@ -41,9 +32,9 @@ Nothing.
 
 Good question.
 
-### Can I contribute?
+### Is there something hidden here?
 
-There's nothing to contribute to.
+Probably not.
 
 ### Where can I learn more?
 
@@ -51,4 +42,10 @@ You probably already know.
 
 ---
 
-<sub>For those who don't know, there is nothing here.</sub>
+> Most people will leave.
+>
+> A few won't.
+
+<br>
+
+<sub>For those who know, no explanation is necessary. For those who don't, none would be enough.</sub>
