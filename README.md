@@ -1,26 +1,18 @@
 <div align="center">
 
-# ‎
+# .
 
-Nothing to see here.
-
-Just an empty repository.
-
-Move along.
-
----
-
-*"Some things don't need explaining."*
+*"You weren't supposed to find this."*
 
 </div>
 
 ## About
 
-This repository contains absolutely nothing of interest.
+The shelves are empty.
 
-No releases.
-No downloads.
-No documentation.
+The clock stopped a long time ago.
+
+The key was never here.
 
 ## FAQ
 
@@ -28,24 +20,24 @@ No documentation.
 
 Nothing.
 
-### Why does it exist?
+### Why are you reading this?
 
-Good question.
+That's a better question.
 
-### Is there something hidden here?
+### Is there more?
 
-Probably not.
+Less than you think.
 
-### Where can I learn more?
+### Then why does it exist?
 
-You probably already know.
+...
 
 ---
 
-> Most people will leave.
+> Some doors don't lead anywhere.
 >
-> A few won't.
+> Some people open them anyway.
 
 <br>
 
-<sub>For those who know, no explanation is necessary. For those who don't, none would be enough.</sub>
+<sub>If you're looking for answers, you're already too late.</sub>
